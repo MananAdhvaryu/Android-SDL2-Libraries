@@ -1,1 +1,1 @@
-#These are for 64-bit architecture
+# These are for 64-bit architecture
