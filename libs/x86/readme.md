@@ -1,1 +1,1 @@
-These are for x86 architecture
+# These are for 32-bit architecture
